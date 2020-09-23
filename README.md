@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer with an uncontrallable bia towards javascript. Sometimes I write Go.
+I am a software engineer with an uncontrallable bias towards javascript. Sometimes I write Go.
 
 <hr />
 
